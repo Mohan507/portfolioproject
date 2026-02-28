@@ -31,7 +31,7 @@ export default function Navbar() {
               Chitukula
             </span>{" "}
             <span className="text-blue-500 group-hover:text-white transition duration-300">
-              Mohan Sanju
+              Mohan
             </span>
           </h1>
 
