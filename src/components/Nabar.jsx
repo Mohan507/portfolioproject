@@ -31,7 +31,7 @@ export default function Navbar() {
               Chitukula
             </span>{" "}
             <span className="text-blue-500 group-hover:text-white transition duration-300">
-              Mohan Saju
+              Mohan
             </span>
           </h1>
 
@@ -40,7 +40,7 @@ export default function Navbar() {
             <NavLink href="#home" title="Home" />
             <NavLink href="#about" title="About" />
             <NavLink href="#projects" title="Projects" />
-            <NavLink href="#contact" title="Contact" />
+            <NavLink href="#contact" title="ContactUs" />
           </div>
 
           {/* Mobile Hamburger */}
